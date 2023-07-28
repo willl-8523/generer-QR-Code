@@ -1,0 +1,12 @@
+.main {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e2dde7;
+}
+
+.content {
+    background-color: #f6f5f7;
+}
